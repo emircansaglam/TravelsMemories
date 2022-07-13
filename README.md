@@ -3,7 +3,7 @@
 Swift'de coredata kullanarak yaptığım bir mobil uygulama.
 Uygulama seyahat ettiğimiz yerleri kaydetmemizi sağlıyor.
 
-https://github.com/emircansaglam/TravelsMemories/blob/main/img/img-5.png?raw=true
+https://github.com/emircansaglam/TravelsMemories/blob/main/img/img-5.png
 
 Uygulamada tab bar mevcut Memories kısmından kaydettiğimiz anıları görebiliyoruz güncelleyebiliyoruz tıklayıp
 detaylarına ulaşabiliyoruz ve silebiliyoruz.
